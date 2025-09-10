@@ -17,7 +17,7 @@ body {
   border: 0.1rem solid white;
   display: inline-block;
   width: 730px;
-  height: 115px;
+  height: 165px;
   position: relative;
   margin-left: 20px;
 }
@@ -25,7 +25,7 @@ body {
   border: 0.1rem solid white;
   display: block;
   width: 730px;
-  height: 115px;
+  height: 165px;
   position: relative;
   margin-top: 20px;
   margin-left: 20px;
@@ -987,6 +987,26 @@ label {
   top: 65px;
   left: 685px;
 }
+#solis {
+  top: 115px;
+  left: 10px;
+}
+#fenrir {
+  top: 115px;
+  left: 55px;
+}
+#tubarao {
+  top: 115px;
+  left: 100px;
+}
+#skopos {
+  top: 115px;
+  left: 145px;
+}
+#denari {
+  top: 115px;
+  left: 190px;
+}
 /* 攻撃側オペレーターアイコン位置決め */
 #sledge {
   top: 15px;
@@ -1115,4 +1135,24 @@ label {
 #sens {
   top: 65px;
   left: 685px;
+}
+#grim {
+  top: 115px;
+  left: 10px;
+}
+#brava {
+  top: 115px;
+  left: 55px;
+}
+#ram {
+  top: 115px;
+  left: 100px;
+}
+#deimos {
+  top: 115px;
+  left: 145px;
+}
+#rauora {
+  top: 115px;
+  left: 190px;
 }
