@@ -567,6 +567,22 @@ body {
   top: 1032.8px;
   left: 1620px;
 }
+.L36 {
+  top: 1062.8px;
+  left: 1620px;
+}
+.L37 {
+  top: 1092.8px;
+  left: 1620px;
+}
+.L38 {
+  top: 1122.8px;
+  left: 1620px;
+}
+.L39 {
+  top: 1152.8px;
+  left: 1620px;
+}
 .R1 {
   top: 12.8px;
   left: 1758px;
@@ -708,6 +724,26 @@ body {
   left: 1758px;
   margin-bottom: 50px;
 }
+.R36 {
+  top: 1062.8px;
+  left: 1758px;
+  margin-bottom: 50px;
+}
+.R37 {
+  top: 1092.8px;
+  left: 1758px;
+  margin-bottom: 50px;
+}
+.R38 {
+  top: 1122.8px;
+  left: 1758px;
+  margin-bottom: 50px;
+}
+.R39 {
+  top: 1152.8px;
+  left: 1758px;
+  margin-bottom: 50px;
+}
 .tab_item:hover {
   opacity: 1;
 }
@@ -794,7 +830,14 @@ input[name="tab_item"] {
 #yacht1fa:checked ~ #yacht1fa,
 #yacht1fb:checked ~ #yacht1fb,
 #ep2f:checked ~ #ep2f,
-#ep1f:checked ~ #ep1f {
+#ep1f:checked ~ #ep1f,
+#lair2f:checked ~ #lair2f,
+#lair1f:checked ~ #lair1f,
+#lairb1:checked ~ #lairb1,
+#lab2f:checked ~ #lab2f,
+#lab1f:checked ~ #lab1f,
+#labb1:checked ~ #labb1
+{
   display: block;
 }
 
